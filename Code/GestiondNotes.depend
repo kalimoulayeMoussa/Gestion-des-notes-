@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1732561687 source:c:\users\user\onedrive\desktop\language c++\gestiondnotes\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<string>
+
+1732561687 source:c:\users\user\onedrive\desktop\gestion des notres\code\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<string>
+
